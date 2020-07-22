@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Travout</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+
+    <string name="jakarta1_title">Pulau seribu, Jakarta</string>
+    <string name="jakarta1_desc">adalah sebuah kabupaten administrasi di Daerah Khusus Ibukota Jakarta, Indonesia. Wilayahnya meliputi gugusan kepulauan di Teluk Jakarta.
+                                  Bupatinya saat ini adalah Husein Murad. Sebelum menjadi kabupaten, wilayah Kepulauan Seribu merupakan salah satu kecamatan di Kota Administrasi
+                                  Jakarta Utara.</string>
+    <string name="jakarta2_title">Sea World, Jakarta</string>
+    <string name="jakarta2_desc">Sea World Ancol merupakan sebuah kawasan yang lengkap untuk memberikan hiburan dan pendidikan khususnya dunia laut. Dalam operasionalnya,
+                                Sea World Ancol mengemban 3 misi besar yaitu: Pendidikan, Konservasi dan Hiburan. Melalui misi ini Sea World Ancol menempatkan diri sebagai
+                                tempat hiburan berkualitas</string>
+    <string name="jakarta3_title">Taman Mini Indo, Jakarta</string>
+    <string name="jakarta3_desc">merupakan suatu kawasan taman wisata bertema budaya Indonesia di Jakarta Timur.  Bangunan atau arsitektur tradisional yang mereka buat selalu
+                                    dilatarbetakangi oleh kondisi lingkungan dan kebudayaan yang dimiliki.</string>
+
+
+
+    <string name="bandung1_title">Ranca Upas, Bandung</string>
+    <string name="bandung1_desc">Tempat ini merupakan sebuah camping ground, dengan fasilitas yang cukup lengkap seperti kamar mandi umum dan sarana beribadah Mesjid. Juga
+                                    terdapat arena outbound dan penyewaan kendaraan ATV.</string>
+    <string name="bandung2_title">Situ Patenggang, Bandung</string>
+    <string name="bandung2_desc">Situ Patengan adalah suatu danau yang terletak di kawasan objek wisata alam Bandung Selatan, Jawa Barat, Indonesia, tepatnya di Ciwidey.
+                                Terletak di ketinggian 1600 meter di atas permukaan laut, danau ini memiliki pemandangan yang sangat eksotik. Situ patenggang juga memiliki pemandangan
+                                alam yang asri,karena disekitarnya terdapat hamparan kebun teh</string>
+    <string name="bandung3_title">Tangkuban Perahu, Bandung</string>
+    <string name="bandung3_desc">Gunung Tangkuban Parahu adalah salah satu gunung berapi yang masih aktif di Jawa Barat. Jika dipandang dari atas Gedung Sate di kota Bandung,
+                                bentuk gunung ini terlihat jelas seperti perahu besar yang terbalik. Memang dalam bahasa Sunda, tangkuban parahu berarti perahu terbalik.Gunung
+                                Tangkuban Parahu mempunyai sembilan kawah yangmasih aktif. Jika diperhatikan dari sejarah geologinya, Gunung Tangkuban Parahu terbentuk dari letusan Gunung
+                                Api Sunda di zaman prasejarah </string>
+
+
+    <string name="purwekerto1_title">Telaga Sunyi, Purwekerto</string>
+    <string name="purwekerto1_desc">Yups, sesuai namanya, tempat wisata di Purwokerto ini memang masih sunyi karena jauh dari hiruk pikuk kota dan hunian penduduk. Wisatawan pun belum banyak yang berdatangan karena memang belum banyak yang mengetahuinya.
+                                    Anda bisa berenang, menyelam, dan mengobservasi bebatuan indah yang ada di dasar telaga.</string>
+    <string name="purwekerto2_title">Batu Raden, Purwekerto</string>
+    <string name="purwekerto2_desc">Objek wisata Baturraden termasuk objek wisata yang cukup komplet. Di tempat wisata di Purwokerto ini terdapat beberapa wahana wisata yang dapat dinikmati bersama keluarga,
+                                    seperti misalnya kolam renang, kolam luncur, sepeda air, terapi ikan, hingga pemandian air panas. Di kawasan wisata ini juga ada kebun binatang mini yang bisa dikunjungi bersama keluarga.</string>
+    <string name="purwekerto3_title">Bukit Waktu Meja, Purwekerto</string>
+    <string name="purwekerto3_desc">Tempat wisata ini berada di Kecamatan Kebasean, Purwokerto. Untuk menikmati keindahan panorama bukit, Anda harus mendaki bukit selama kurang lebih 20 menit.
+                                    Setelah sampai di atas, Anda akan disambut pemandangan Sungai Serayu yang begitu indah.</string>
+
+    <string name="yogjakarta1_title">Pantai Ngobaran,Yogyakarta</string>
+    <string name="yogyakarta1_desc">Terletak tidak jauh dari Baron, Pantai Ngobaran bisa sekalian anda kunjungi juga. Ngga cuma wisata. di Pantai Ngobaran anda bisa temukan perpaduan budaya yang menyatu disini. </string>
+
+    <string name="yogyakarta2_title">Pinus Pengger, Yogyakarta</string>
+    <string name="yogyakarta2_desc">Di Jogja juga banyak terdapat hutan pinus yang dikelola menjadi tempat wisata. Salah satunya adalah Hutan Pinus Pengger. Terletak di pinggiran kota area Jogja,
+                                    anda bisa menikmati keindahan hutan pinus dengan udaranya yang segar.</string>
+    <string name="yogyakarta3_title">Kalibiru, Yogyakarta</string>
+    <string name="yogyakarta3_desc">Tempatnya berada di Kulon Progo, masih di dalam wilayah DIY Jogjakarta. Tempat ini banyak dikunjungi karena pemandangan alamnya yang indah, dengan berbagai spot foto yang unik. </string>
+
+    <string name="surabaya1_title">Ekowisata Mangrove, Surabaya</string>
+    <string name="surabaya1_desc">Ekowisata Mangrove yang terletak di daerah Wonorejo, Kecamatan Rungkut. Objek wisata ini tak terlalu jauh dari pusat kota dan bisa ditempuh dengan kendaraan pribadi.
+                                Tiket masuknya pun cukup murah, kurang dari Rp 5 ribu plus parkir. Selain bisa menikmati hijaunya hutan mangrove, tempat ini juga menjadi wisata edukasi yang baik untuk memperkenalkan alam pada anak-anak.</string>
+    <string name="surabya2_title">Air Mancur Menari, Surabaya</string>
+    <string name="surabaya2_desc">Di sepanjang pesisir Pantai Kenjeran, dibangun jembatan sepanjang 800 meter dengan 3 lajur satu arah yang sangat megah. Di malam hari, jembatan ini semakin cantik dengan gemerlap lampu
+                                yang sengaja dipasang untuk menarik perhatian pengunjung. Bahkan, di lokasi ini ada spot khusus untuk selfie yang membuat Anda bisa mengabadikan pemandangan sempurna pada jembatan Kenjeran.</string>
+    <string name="surabya3_title">North Quay, Surabaya</string>
+    <string name="surabya3_desc">Surabaya North Quay merupakan lokasi wisata yang terletak di lantai dua dan tiga gedung megah Terminal Gapura Surya Nusantara. Tempat ini
+                                biasa dijadikan lokasi bersandar kapal pesiar internasional. Di malam hari, Surabaya North Quay dipenuhi lampu sehingga pengunjung bisa menikmati pemadangan sepanjang Pelabuhan Tanjung Perak </string>
+</resources>

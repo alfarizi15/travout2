@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/homescreen"
+
+    >
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="@drawable/logo"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/tvDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="300dp"
+            android:elevation="5dp"
+            android:layout_alignParentRight="true"
+            android:text="Login now for a"
+            android:textAlignment="textEnd"
+            android:textColor="@android:color/white"
+             />
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvDesc"
+            android:layout_alignEnd="@+id/tvDesc"
+            android:elevation="5dp"
+            android:textAlignment="textEnd"
+            android:text="new exprience travel"
+            android:textColor="@android:color/white"
+
+           />
+
+
+
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="300dp"
+                        android:layout_marginTop="400dp"
+                        android:orientation="vertical"
+                        android:layout_alignParentBottom="true"
+                        android:background="@color/black2"
+
+                        >
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/txtLoginUser"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                           android:padding="15dp"
+
+
+                            android:textColorHint="@color/white">
+
+                            <EditText
+                                android:id="@+id/email"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="10dp"
+                                android:drawablePadding="10dp"
+                                android:drawableStart="@drawable/ic_email"
+                                android:hint="     Masukkan Email"
+                                android:textColor="@color/white"
+                               android:background="@drawable/border_button"
+                                android:imeOptions="actionNext"
+                                android:inputType="textEmailAddress"
+                                android:maxLines="1"
+                                 />
+
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/txtLoginPass"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="15dp"
+                            app:passwordToggleEnabled="true"
+                            app:passwordToggleTint="@color/white"
+                            android:textColorHint="@color/white"
+                            >
+
+                            <EditText
+                                android:id="@+id/password"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/border_button"
+                                android:padding="10dp"
+                                android:drawablePadding="10dp"
+                                android:drawableStart="@drawable/ic_password"
+                                android:hint="     Password"
+                                android:textColor="@color/white"
+                                android:imeOptions="actionDone"
+                                android:inputType="textPassword"
+                                android:maxLines="1"
+                                 />
+
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                    </LinearLayout>
+
+
+                        <com.google.android.material.button.MaterialButton
+                            android:id="@+id/masuk"
+                            android:layout_width="100dp"
+                            android:layout_height="50dp"
+                            android:text="Login"
+                            android:layout_margin="50dp"
+                            android:textColor="@android:color/white"
+                            android:theme="@style/Theme.MaterialComponents.Light"
+                            app:backgroundTint="@color/colorPrimaryDark"
+                            app:cornerRadius="50dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentRight="true"
+                            />
+
+
+
+                    <Button
+                        android:id="@+id/ke_daftar"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="50dp"
+
+                        android:background="@drawable/border_button"
+                        android:text="Sign Up"
+
+                        android:textAllCaps="false"
+                        android:textColor="#92A7AB"
+                        android:textSize="12sp"
+                        android:layout_alignParentBottom="true"
+
+                        />
+
+
+
+
+
+
+
+
+</RelativeLayout>

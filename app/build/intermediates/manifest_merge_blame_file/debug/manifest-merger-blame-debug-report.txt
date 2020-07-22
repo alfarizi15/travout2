@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.travel"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:6:5-51:19
+12        android:allowBackup="true"
+12-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\alfarizi\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/nature"
+15-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:8:9-40
+16        android:label="@string/app_name"
+16-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@drawable/nature"
+17-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:10:9-45
+18        android:supportsRtl="true"
+18-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:13:9-21:20
+22            android:name="com.aldi.travel.activity.splashscreen"
+22-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:14:13-50
+23            android:screenOrientation="portrait" >
+23-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:15:13-49
+24            <intent-filter>
+24-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:17:17-69
+25-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:19:17-77
+27-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.aldi.travel.activity.MainActivity" />
+30-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:22:9-59
+30-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:22:19-56
+31        <activity
+31-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:23:9-27:55
+32            android:name="com.aldi.travel.activity.LoginActivity"
+32-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:24:13-51
+33            android:configChanges="keyboardHidden|orientation|screenSize"
+33-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:25:13-74
+34            android:screenOrientation="portrait"
+34-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:26:13-49
+35            android:windowSoftInputMode="adjustPan" />
+35-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:27:13-52
+36        <activity
+36-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:28:9-32:55
+37            android:name="com.aldi.travel.activity.RegisterActivity"
+37-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:29:13-54
+38            android:configChanges="keyboardHidden|orientation|screenSize"
+38-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:30:13-74
+39            android:screenOrientation="portrait"
+39-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:31:13-49
+40            android:windowSoftInputMode="adjustPan" />
+40-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:32:13-52
+41        <activity
+41-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:33:9-35:52
+42            android:name="com.aldi.travel.activity.ProfileActivity"
+42-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:34:13-53
+43            android:screenOrientation="portrait" />
+43-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:35:13-49
+44        <activity
+44-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:36:9-38:52
+45            android:name="com.aldi.travel.activity.HistoryActivity"
+45-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:37:13-53
+46            android:screenOrientation="portrait" />
+46-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:38:13-49
+47        <activity
+47-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:39:9-41:52
+48            android:name="com.aldi.travel.activity.BookKeretaActivity"
+48-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:40:13-56
+49            android:screenOrientation="portrait" />
+49-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:41:13-49
+50        <activity android:name="com.aldi.travel.activity.coffe_main" />
+50-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:42:9-43:51
+50-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:43:13-48
+51        <activity android:name="com.aldi.travel.activity.News" />
+51-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:44:9-45:41
+51-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:45:9-38
+52        <activity android:name="com.aldi.travel.activity.Kamar" />
+52-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:46:9-47:46
+52-->C:\Users\alfarizi\Documents\New folder\1\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:47:13-43
+53    </application>
+54
+55</manifest>
